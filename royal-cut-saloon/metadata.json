@@ -1,0 +1,6 @@
+{
+  "name": "Royal Cut Saloon",
+  "description": "Luxury men's grooming salon in East Meadow, New York. Precision cuts, refined grooming, and signature styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
