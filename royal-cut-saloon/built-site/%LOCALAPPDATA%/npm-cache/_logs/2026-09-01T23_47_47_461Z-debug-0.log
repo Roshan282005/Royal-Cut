@@ -1,0 +1,15 @@
+0 verbose cli E:\nodejs\node.exe C:\Users\ADMIN\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@12.0.2
+2 info using node@v24.17.0
+3 silly config load:file:C:\Users\ADMIN\AppData\Roaming\npm\node_modules\npm\npmrc
+4 silly config load:file:E:\.npmrc
+5 silly config load:file:C:\Users\ADMIN\.npmrc
+6 silly config load:file:C:\Users\ADMIN\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm exec serve .
+8 verbose argv "exec" "--" "serve" "."
+9 verbose logfile logs-max:10 dir:E:\Bhawa\royal-cut-saloon\built-site\%LOCALAPPDATA%\npm-cache\_logs\2026-09-01T23_47_47_461Z-
+10 verbose logfile E:\Bhawa\royal-cut-saloon\built-site\%LOCALAPPDATA%\npm-cache\_logs\2026-09-01T23_47_47_461Z-debug-0.log
+11 silly logfile done cleaning log files
+12 notice run react-example@0.0.0 npx
+13 notice run serve .
+14 http fetch GET 200 https://registry.npmjs.org/npm 13397ms

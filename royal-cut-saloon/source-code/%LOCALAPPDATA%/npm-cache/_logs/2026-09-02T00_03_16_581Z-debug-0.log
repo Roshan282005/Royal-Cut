@@ -1,0 +1,14 @@
+0 verbose cli E:\nodejs\node.exe C:\Users\ADMIN\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@12.0.2
+2 info using node@v24.17.0
+3 silly config load:file:C:\Users\ADMIN\AppData\Roaming\npm\node_modules\npm\npmrc
+4 silly config load:file:E:\Bhawa\royal-cut-saloon\source-code\.npmrc
+5 silly config load:file:C:\Users\ADMIN\.npmrc
+6 silly config load:file:C:\Users\ADMIN\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm run dev
+8 verbose argv "run" "dev"
+9 verbose logfile logs-max:10 dir:E:\Bhawa\royal-cut-saloon\source-code\%LOCALAPPDATA%\npm-cache\_logs\2026-09-02T00_03_16_581Z-
+10 verbose logfile E:\Bhawa\royal-cut-saloon\source-code\%LOCALAPPDATA%\npm-cache\_logs\2026-09-02T00_03_16_581Z-debug-0.log
+11 silly logfile done cleaning log files
+12 notice run react-example@0.0.0 dev
+13 notice run vite --port=3000 --host=0.0.0.0
