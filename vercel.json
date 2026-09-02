@@ -1,6 +1,6 @@
 {
-  "buildCommand": "cd royal-cut-saloon/source-code && npm run build",
+  "buildCommand": "cd royal-cut-saloon/source-code && npx vite build",
   "outputDirectory": "royal-cut-saloon/source-code/dist",
-  "installCommand": "npm install --prefix royal-cut-saloon/source-code",
+  "installCommand": "npm ci --prefix royal-cut-saloon/source-code",
   "framework": null
 }
