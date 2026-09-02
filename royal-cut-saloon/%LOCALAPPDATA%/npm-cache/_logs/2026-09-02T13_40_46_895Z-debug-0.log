@@ -7,13 +7,14 @@
 6 silly config load:file:C:\Users\ADMIN\AppData\Roaming\npm\etc\npmrc
 7 verbose title npm ls @types/canvas-confetti
 8 verbose argv "ls" "--json" "--depth" "0" "--" "@types/canvas-confetti"
-9 verbose logfile logs-max:10 dir:e:\Bhawa\royal-cut-saloon\%LOCALAPPDATA%\npm-cache\_logs\2026-09-02T01_57_08_295Z-
-10 verbose logfile e:\Bhawa\royal-cut-saloon\%LOCALAPPDATA%\npm-cache\_logs\2026-09-02T01_57_08_295Z-debug-0.log
-11 silly logfile done cleaning log files
+9 verbose logfile logs-max:10 dir:e:\Bhawa\royal-cut-saloon\%LOCALAPPDATA%\npm-cache\_logs\2026-09-02T13_40_46_895Z-
+10 verbose logfile e:\Bhawa\royal-cut-saloon\%LOCALAPPDATA%\npm-cache\_logs\2026-09-02T13_40_46_895Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
 12 silly packumentCache heap:2348810240 maxSize:587202560 maxEntrySize:293601280
-13 verbose cwd e:\Bhawa\royal-cut-saloon
-14 verbose os Windows_NT 10.0.26200
-15 verbose node v24.17.0
-16 verbose npm  v12.0.2
-17 verbose exit 1
-18 verbose code 1
+13 silly logfile done cleaning log files
+14 verbose cwd e:\Bhawa\royal-cut-saloon
+15 verbose os Windows_NT 10.0.26200
+16 verbose node v24.17.0
+17 verbose npm  v12.0.2
+18 verbose exit 1
+19 verbose code 1
