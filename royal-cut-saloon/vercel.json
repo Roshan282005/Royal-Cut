@@ -1,5 +1,5 @@
 {
-  "buildCommand": "cd royal-cut-saloon/source-code && npm install && npm run build",
+  "buildCommand": "cd royal-cut-saloon && npm install && npm run build",
   "outputDirectory": "royal-cut-saloon/dist",
   "installCommand": "echo skip-root-install",
   "framework": null
